@@ -1,5 +1,4 @@
 <?php
-
 /*
  * Btcchina PHP sdk
  * @author Zhangwei(hemono@gmail.com)

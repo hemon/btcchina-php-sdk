@@ -4,7 +4,7 @@ btcchina-php-sdk
 比特币中国API  
 http://btcchina.org/api-trade-documentation-zh
 
-创建API公钥私钥
+创建API公钥私钥  
 https://vip.btcchina.com/account/apikeys
 
 代码示例
